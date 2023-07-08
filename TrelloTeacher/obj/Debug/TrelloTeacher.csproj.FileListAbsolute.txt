@@ -1,0 +1,60 @@
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.exe.config
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.exe
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.pdb
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\App.g.cs
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher_MarkupCompile.cache
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher_MarkupCompile.lref
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\MainWindow.baml
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.g.resources
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.Properties.Resources.resources
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.exe
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.pdb
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\Window1.g.cs
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\Window1.baml
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.dll
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.dll
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.xml
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.xml
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\Window2.g.cs
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\Window2.baml
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.exe.manifest
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.application
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.exe.manifest
+C:\Users\123\Desktop\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.application
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.exe.config
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.exe
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.pdb
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.exe.manifest
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.application
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.exe
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\TrelloTeacher.pdb
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.dll
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.dll
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.xml
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\bin\Debug\System.Data.SQLite.xml
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\MainWindow.g.cs
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\Window1.g.cs
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\Window2.g.cs
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\App.g.cs
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher_MarkupCompile.cache
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher_MarkupCompile.lref
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\MainWindow.baml
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\Window1.baml
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\Window2.baml
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.g.resources
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.Properties.Resources.resources
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.csproj.GenerateResource.Cache
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.exe.manifest
+C:\Users\123\Documents\ДЛЯ РАБОТЫ И УЧЕБЫ\TrelloTeacher\TrelloTeacher\obj\Debug\TrelloTeacher.application

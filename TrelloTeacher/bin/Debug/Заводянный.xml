@@ -1,0 +1,35 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:DataSet id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Data/System.Data%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<DataSet.RemotingVersion href="#ref-3"/>
+<XmlSchema id="ref-4">&#60;?xml version=&#34;1.0&#34; encoding=&#34;utf-16&#34;?&#62;
+&#60;xs:schema id=&#34;NewDataSet&#34; xmlns=&#34;&#34; xmlns:xs=&#34;http://www.w3.org/2001/XMLSchema&#34; xmlns:msdata=&#34;urn:schemas-microsoft-com:xml-msdata&#34;&#62;
+  &#60;xs:element name=&#34;NewDataSet&#34; msdata:IsDataSet=&#34;true&#34; msdata:UseCurrentLocale=&#34;true&#34;&#62;
+    &#60;xs:complexType&#62;
+      &#60;xs:choice minOccurs=&#34;0&#34; maxOccurs=&#34;unbounded&#34;&#62;
+        &#60;xs:element name=&#34;Pn&#34;&#62;
+          &#60;xs:complexType&#62;
+            &#60;xs:sequence&#62;
+              &#60;xs:element name=&#34;Predmet&#34; type=&#34;xs:string&#34; msdata:targetNamespace=&#34;&#34; minOccurs=&#34;0&#34; /&#62;
+              &#60;xs:element name=&#34;Teacher&#34; type=&#34;xs:string&#34; msdata:targetNamespace=&#34;&#34; minOccurs=&#34;0&#34; /&#62;
+              &#60;xs:element name=&#34;Day&#34; type=&#34;xs:string&#34; msdata:targetNamespace=&#34;&#34; minOccurs=&#34;0&#34; /&#62;
+              &#60;xs:element name=&#34;Time&#34; type=&#34;xs:string&#34; msdata:targetNamespace=&#34;&#34; minOccurs=&#34;0&#34; /&#62;
+              &#60;xs:element name=&#34;Group&#34; type=&#34;xs:string&#34; msdata:targetNamespace=&#34;&#34; minOccurs=&#34;0&#34; /&#62;
+              &#60;xs:element name=&#34;Kabinet&#34; type=&#34;xs:string&#34; msdata:targetNamespace=&#34;&#34; minOccurs=&#34;0&#34; /&#62;
+            &#60;/xs:sequence&#62;
+          &#60;/xs:complexType&#62;
+        &#60;/xs:element&#62;
+      &#60;/xs:choice&#62;
+    &#60;/xs:complexType&#62;
+  &#60;/xs:element&#62;
+&#60;/xs:schema&#62;</XmlSchema>
+<XmlDiffGram id="ref-5">&#60;diffgr:diffgram xmlns:msdata=&#34;urn:schemas-microsoft-com:xml-msdata&#34; xmlns:diffgr=&#34;urn:schemas-microsoft-com:xml-diffgram-v1&#34;&#62;&#60;NewDataSet&#62;&#60;Pn diffgr:id=&#34;Pn1&#34; msdata:rowOrder=&#34;0&#34; diffgr:hasChanges=&#34;inserted&#34;&#62;&#60;Predmet&#62;БД&#60;/Predmet&#62;&#60;Teacher&#62;Заводянный&#60;/Teacher&#62;&#60;Day&#62;System.Windows.Controls.ComboBoxItem: Понедельник&#60;/Day&#62;&#60;Time&#62;8.00&#60;/Time&#62;&#60;Group&#62;3-3&#60;/Group&#62;&#60;Kabinet&#62;520&#60;/Kabinet&#62;&#60;/Pn&#62;&#60;/NewDataSet&#62;&#60;/diffgr:diffgram&#62;</XmlDiffGram>
+</a1:DataSet>
+<a2:Version id="ref-3" xmlns:a2="http://schemas.microsoft.com/clr/ns/System">
+<_Major>2</_Major>
+<_Minor>0</_Minor>
+<_Build>-1</_Build>
+<_Revision>-1</_Revision>
+</a2:Version>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
